@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 I am an engineer who loves to create tools.
 
+I've been working in R & D efficiency for the past four years, focus on [cloud IDE](https://en.wikipedia.org/wiki/Online_integrated_development_environment) && [LCAP](https://www.gartner.com/reviews/market/enterprise-low-code-application-platform).
+
+I created the following open source VS Code extensions, which are part of [Iceworks](https://marketplace.visualstudio.com/items?itemName=iceworks-team.iceworks):
+
 [![React Style Helper](https://img.alicdn.com/imgextra/i4/O1CN01BKdFKT1rxH290UO5D_!!6000000005697-2-tps-264-264.png_110x10000.jpg)](https://marketplace.visualstudio.com/items?itemName=iceworks-team.iceworks-style-helper)
 [![Application Creator](https://img.alicdn.com/imgextra/i1/O1CN01Zf5KlQ290L9WCJDZh_!!6000000008005-2-tps-264-264.png_110x10000.jpg)](https://marketplace.visualstudio.com/items?itemName=iceworks-team.iceworks-project-creator)
 [![Component Helper](https://img.alicdn.com/imgextra/i4/O1CN019muF2g1rsh4aEyLel_!!6000000005687-2-tps-264-264.png_110x10000.jpg)](https://marketplace.visualstudio.com/items?itemName=iceworks-team.iceworks-material-helper)
