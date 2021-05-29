@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I’m an engineer who loves to create tools.
 
-- 🔭 I've been working in R & D efficiency for many years, focus on [Cloud IDE](https://en.wikipedia.org/wiki/Online_integrated_development_environment) and [LCAP](https://www.gartner.com/reviews/market/enterprise-low-code-application-platform).
+- 🔭 I've worked in R & D efficiency for many years, focus on [Cloud IDE](https://en.wikipedia.org/wiki/Online_integrated_development_environment) and [LCAP](https://www.gartner.com/reviews/market/enterprise-low-code-application-platform).
 - 🌱 I’m currently learning Web Media, I created a project called "[100 Days Of Web Media](https://github.com/alvinhui/100-Days-Of-WebMedia)" to record my learning journey.
 - 😄 I created the following open source VS Code extensions, which are part of [Iceworks](https://marketplace.visualstudio.com/items?itemName=iceworks-team.iceworks):
 
