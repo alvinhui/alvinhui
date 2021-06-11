@@ -21,8 +21,8 @@ I’m an engineer who loves to create tools.
 
 - 🔭 I’m currently working on [Taobao Live](https://taolive.taobao.com/), create great tools for creators.
 - 🌱 I’m currently learning Web Media, I created a project called "[100 Days Of Web Media](https://github.com/alvinhui/100-Days-Of-WebMedia)" to record my learning journey.
-- 📫 I've worked in R & D efficiency for many years, focus on [Cloud IDE](https://en.wikipedia.org/wiki/Online_integrated_development_environment) and [LCAP](https://www.gartner.com/reviews/market/enterprise-low-code-application-platform).
-- 😄 I created many [open source VS Code extensions](https://marketplace.visualstudio.com/items?itemName=iceworks-team.iceworks), which are part of [AppWorks](http://appworks.site/).
+- 👯 I've worked in R & D efficiency for many years, focus on [Cloud IDE](https://en.wikipedia.org/wiki/Online_integrated_development_environment) and [LCAP](https://www.gartner.com/reviews/market/enterprise-low-code-application-platform).
+- ⚡ I created many [open source VS Code extensions](https://marketplace.visualstudio.com/items?itemName=iceworks-team.iceworks), which are part of [AppWorks](http://appworks.site/).
 
 <!--
 ![](https://img.alicdn.com/imgextra/i1/O1CN01OiSGqT1Jm6TZqZELe_!!6000000001070-2-tps-302-258.png_110x10000)
