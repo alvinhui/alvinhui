@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I’m an engineer who loves to create tools.
 
 - 🔭 I’m currently working on building agents and LLM-powered applications.
-- 👯 I've worked in R & D efficiency for many years, focus on [Cloud IDE](https://en.wikipedia.org/wiki/Online_integrated_development_environment) and [LCAP](https://www.gartner.com/reviews/market/enterprise-low-code-application-platform).
+- 👯 I've worked in R & D efficiency for 10 years, focus on [LCAP](https://www.gartner.com/reviews/market/enterprise-low-code-application-platform).
 - 💐 I'm interested in media technology, I have developed a web video player for H.265.
 - ⚡ I created many [open source VS Code extensions](https://marketplace.visualstudio.com/items?itemName=iceworks-team.iceworks), which are part of [AppTools](https://github.com/apptools-lab).
 
