@@ -22,8 +22,6 @@ I’m an engineer who loves to create tools.
 - 💐 I'm interested in media technology, I have developed a web video player for H.265.
 - ⚡ I created many [open source VS Code extensions](https://marketplace.visualstudio.com/items?itemName=iceworks-team.iceworks), which are part of [AppTools](https://github.com/apptools-lab).
 
-<img src="https://github-readme-stats.vercel.app/api?username=alvinhui&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
-
 <!--
 ![](https://img.alicdn.com/imgextra/i1/O1CN01OiSGqT1Jm6TZqZELe_!!6000000001070-2-tps-302-258.png_110x10000)
 ![](https://img.alicdn.com/imgextra/i2/O1CN01RQYsTg1dSfzVH9Mxe_!!6000000003735-2-tps-258-258.png_110x10000)
